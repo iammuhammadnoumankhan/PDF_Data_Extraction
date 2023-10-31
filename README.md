@@ -8,3 +8,7 @@
 
 ### If you face an error of "poppler" then run `sudo apt-get install poppler-utils`.
 ### if you face an error of tesseract then run `sudo apt-get install tesseract-ocr`.
+
+#_____________________________________________________________________________________-
+You can update the PDF folder name and Csv file name in config.yaml file.
+The Data.csv file will create by itself by running `python main.py`.
